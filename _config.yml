@@ -1,1 +1,4 @@
+plugins:
+- jekyll-asciidoc
+
 remote_theme: vsoch/docsy-jekyll
