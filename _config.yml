@@ -1,4 +1,4 @@
 plugins:
   - jekyll-remote-theme 
  
-remote_theme: tomjoht/documentation-theme-jekyll@gh-pages
+remote_theme: vsoch/docsy-jekyll@gh-pages
