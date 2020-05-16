@@ -1,4 +1,3 @@
-plugins:
-  - jekyll-remote-theme 
- 
+url: "https://arkham-labs.github.io/louketo-proxy.github.io/"
+repo: "https://arkham-labs/louketo-proxy"
 remote_theme: "vsoch/docsy-jekyll"
